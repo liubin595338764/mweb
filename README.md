@@ -5,3 +5,7 @@
 ## 哈哈，一切从这里开始
 
 ### 再提交一次吧，哈哈~
+
+```javascript
+console.info('hello word~');
+```
