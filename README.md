@@ -1,11 +1,9 @@
-# mweb
-基于Zepto的移动web小框架
+# 移动端UI体系整理
+
+目前有一下UI组件已经整理完
+
+- 列表
+- 按钮
+- 输入框
 
 
-## 哈哈，一切从这里开始
-
-### 再提交一次吧，哈哈~
-
-```javascript
-console.info('hello word~');
-```
