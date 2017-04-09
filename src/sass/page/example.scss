@@ -3,6 +3,7 @@
 html{ font-size: 37.5px; }
 body{
         font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-size: rem(28px);
 }
 .demo-h1{
     font-size: rem(40px);
@@ -23,7 +24,6 @@ body{
     left: 0;
     background-color: #F8F8F8;
     z-index: 1;
-    font-size: rem(30px);
     h2{
         margin: .6rem 0;
         text-indent: .4rem;

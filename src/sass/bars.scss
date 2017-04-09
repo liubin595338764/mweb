@@ -6,7 +6,7 @@
     padding: 0 rem(30px);
     border-bottom: 1px solid #eee;
     color: #414141;
-    font-size: rem(32px);
+    font-size: rem(28px);
 
     &.disabled{
         background-color: #eee;
@@ -15,8 +15,8 @@
 
     &::before{
         float: right;
-        content: "\e912";
-        font-family: icomoon!important;
+        content: "\e6a3";
+        font-family: iconfont;
         line-height: rem(90px);
         opacity: .5;
     }

@@ -11,7 +11,7 @@ console.info('hello enbrandsUI');
     var enbrandsActive = require('./enbrands.active.js');
     win.router = require('./enbrands.router.js');
     page.touchActive = function(){
-        var selector = '.m-bar, .m-btn, label.m-cell',
+        var selector = '.m-bar, .m-btn, .m-btn-default, label.m-cell',
             activeArea;
         $(document).on("touchstart", selector, function (e) {
             if( this.classList.contains('disabled') ) return false;

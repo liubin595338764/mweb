@@ -9,12 +9,12 @@
         left: -9990px;
         top: 0;
 
-        &:checked+.icon-duoxy::before{
-            content: "\e93d";
+        &:checked+.icon-roundcheck::before{
+            content: "\e656";
             color: $red;
         }
     }
-    .icon-duoxy{
+    .icon-roundcheck{
         margin-right: .5em;
         font-size: rem(32px);
     }
@@ -27,12 +27,12 @@
         left: -9990px;
         top: 0;
 
-        &:checked+.icon-danxy::before{
+        &:checked+.icon-round::before{
             color: $red;
-            content: "\e93a";
+            content: "\e75b";
         }
     }
-    .icon-danxy{
+    .icon-round{
         margin-right: .5em;
         font-size: rem(32px);
     }
